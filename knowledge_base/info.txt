@@ -1,0 +1,2 @@
+Project Name: Jarvis AI
+Description: Local offline assistant running with Ollama and Qwen 2.5.
